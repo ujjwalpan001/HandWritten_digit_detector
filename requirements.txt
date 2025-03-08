@@ -1,0 +1,9 @@
+matplotlib.pyplot
+numpy
+pandas
+sklearn.model_selection
+tensorflow.keras.callbacks
+tensorflow.keras.datasets
+tensorflow.keras.layers
+tensorflow.keras.models
+tensorflow.keras.optimizers
