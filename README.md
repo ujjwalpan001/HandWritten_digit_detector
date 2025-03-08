@@ -32,8 +32,7 @@ The following Python libraries are required to run the code:
 
 1. Clone the repository or download the project files.
 2. Install the required dependencies.
-3. Open the Jupyter Notebook file (`handwritten_digit_recognition.ipynb`).
-4. Run the cells sequentially to execute the code and view the results.
+3. Run the cells sequentially to execute the code and view the results.
 
 ## Results
 
